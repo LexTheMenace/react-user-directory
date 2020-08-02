@@ -1,0 +1,9 @@
+[{"id": 0, "name": "Lex", "number": 2123435678, "email": "lex@mail.com"},
+{"id": 1, "name": "Mark", "number": 8607874321, "email": "mark@mail.com"},
+{"id": 3, "name": "Lex", "number": 6153435678, "email": "lexing@mail.com"},
+ {"id": 2, "name": "Tom", "number": 2034873213, "email": "tom@mail.com"},
+ {"id": 4, "name": "Arthur", "number": 2034432488, "email": "Arthur@mail.com"},
+ {"id": 5, "name": "Mary", "number": 4154432433, "email": "Mary@mail.com"} 
+
+
+ ]    
